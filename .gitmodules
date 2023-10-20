@@ -1,3 +1,18 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/mega-dropper"]
+	path = lib/mega-dropper
+	url = https://github.com/Philogy/mega-dropper
+[submodule "lib/DeFiHackLabs"]
+	path = lib/DeFiHackLabs
+	url = https://github.com/SunWeb3Sec/DeFiHackLabs
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "lib/solady"]
+	path = lib/solady
+	url = https://github.com/Vectorized/solady
+[submodule "lib/safe-contracts"]
+	path = lib/safe-contracts
+	url = https://github.com/safe-global/safe-contracts
