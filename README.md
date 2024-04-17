@@ -17,9 +17,13 @@ WORK HERE IN PROGRESS, NOTHING INTERESTING HERE
 7. ISMetamorphic 
    Don't know what it will be, but 
 
+## useful functions
 
+### Read private data on-chain. 
 
-# LIBS that needed to be installed 
+There 2 scripts: one is [JS uses ethers](./script/onChainReader.js), another is [Solidity script uses Foundry](./script/OnchainReader.s.sol).
+
+## LIBS that needed to be installed 
 
 - [mega-dropper](https://github.com/Philogy/mega-dropper)
 - [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
